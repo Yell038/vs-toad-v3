@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["sunshine", "faker", [178, 30, 0]],    ["vesania", "toad", [178, 30, 0]],
+		["hellhole", "toad", [178, 30, 0]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "EXTRA STUFF LOLZ",
+	"difficulties": "hard",
+	"weekBefore": "week6",
+	"weekName": "weekextra",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

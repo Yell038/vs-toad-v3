@@ -1,0 +1,77 @@
+
+ {
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "ughhh... where are we?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "toad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hello frein!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "AH"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who are u?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "duh its toad"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "toad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "shes right"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "here have mic"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "toad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		}
+	]
+}

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_options.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="options basic0000" x="0" y="0" width="395" height="80"/>
+	<SubTexture name="options white0000" x="395" y="0" width="395" height="80"/>
+	<SubTexture name="options white0001" x="0" y="80" width="395" height="80"/>
+	<SubTexture name="options white0002" x="395" y="80" width="395" height="80"/>
+	<SubTexture name="options white0003" x="0" y="160" width="395" height="80"/>
+	<SubTexture name="options white0004" x="395" y="160" width="395" height="80"/>
+	<SubTexture name="options white0005" x="0" y="240" width="395" height="80"/>
+	<SubTexture name="options white0006" x="395" y="240" width="395" height="80"/>
+	<SubTexture name="options white0007" x="0" y="320" width="395" height="80"/>
+	<SubTexture name="options white0008" x="395" y="320" width="395" height="80"/>
+	<SubTexture name="options white0009" x="0" y="400" width="395" height="80"/>
+	<SubTexture name="options white0010" x="395" y="400" width="395" height="80"/>
+	<SubTexture name="options white0011" x="0" y="480" width="395" height="80"/>
+	<SubTexture name="options white0012" x="395" y="480" width="395" height="80"/>
+	<SubTexture name="options white0013" x="0" y="560" width="395" height="80"/>
+	<SubTexture name="options white0014" x="395" y="560" width="395" height="80"/>
+	<SubTexture name="options white0015" x="0" y="640" width="395" height="80"/>
+	<SubTexture name="options white0016" x="395" y="640" width="395" height="80"/>
+	<SubTexture name="options white0017" x="0" y="720" width="395" height="80"/>
+	<SubTexture name="options white0018" x="395" y="720" width="395" height="80"/>
+	<SubTexture name="options white0019" x="0" y="720" width="395" height="80"/>
+	<SubTexture name="options white0020" x="395" y="640" width="395" height="80"/>
+	<SubTexture name="options white0021" x="0" y="640" width="395" height="80"/>
+	<SubTexture name="options white0022" x="395" y="560" width="395" height="80"/>
+	<SubTexture name="options white0023" x="395" y="560" width="395" height="80"/>
+	<SubTexture name="options white0024" x="395" y="480" width="395" height="80"/>
+	<SubTexture name="options white0025" x="395" y="480" width="395" height="80"/>
+	<SubTexture name="options white0026" x="0" y="480" width="395" height="80"/>
+	<SubTexture name="options white0027" x="395" y="400" width="395" height="80"/>
+	<SubTexture name="options white0028" x="0" y="400" width="395" height="80"/>
+	<SubTexture name="options white0029" x="395" y="320" width="395" height="80"/>
+	<SubTexture name="options white0030" x="0" y="320" width="395" height="80"/>
+	<SubTexture name="options white0031" x="395" y="240" width="395" height="80"/>
+	<SubTexture name="options white0032" x="0" y="240" width="395" height="80"/>
+	<SubTexture name="options white0033" x="395" y="160" width="395" height="80"/>
+	<SubTexture name="options white0034" x="395" y="160" width="395" height="80"/>
+	<SubTexture name="options white0035" x="0" y="160" width="395" height="80"/>
+	<SubTexture name="options white0036" x="395" y="80" width="395" height="80"/>
+	<SubTexture name="options white0037" x="0" y="80" width="395" height="80"/>
+	<SubTexture name="options white0038" x="395" y="0" width="395" height="80"/>
+	<SubTexture name="options white0039" x="395" y="0" width="395" height="80"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "toad idle",
+	"position": [
+		100,
+		110
+	],
+	"scale": 0.45,
+	"image": "menuToad",
+	"flipX": false
+}

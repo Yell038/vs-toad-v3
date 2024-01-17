@@ -1,0 +1,53 @@
+{
+	"storyName": "a familar mushroom...",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "smland",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"mushrooms",
+			"toad",
+			[
+				118,
+				70,
+				0
+			]
+		],
+		[
+			"kingdom",
+			"toad",
+			[
+				178,
+				30,
+				0
+			]
+		],
+		[
+			"greenland",
+			"toad",
+			[
+				80,
+				173,
+				0
+			]
+		],
+		[
+			"party",
+			"toad",
+			[
+				80,
+				173,
+				0
+			]
+		]
+	],
+	"weekName": "Week Toad"
+}
